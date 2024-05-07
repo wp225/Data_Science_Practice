@@ -29,4 +29,7 @@ strategies that cater to the specific needs of each cluster, leading to more eff
 management and better patient outcomes.
 
 ScreenShots:
-![Gender_destribution.png](outputs%2FGender_destribution.png)
+
+<div style="text-align:center;">
+    <img src="/Users/anshujoshi/PycharmProjects/DS_projects/Health Care" alt="Gender Distribution">
+</div>
