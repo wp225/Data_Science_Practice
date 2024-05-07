@@ -83,7 +83,7 @@ Higer selling cars typically have high range, but if a car has higher range and 
 
 <div style="text-align:center;">
 
-![Trand in Range](outputs/Range_growth_trend.png)
+![Trand in Range](outputs/range_growth_trend.png)
 
 </div>
 
