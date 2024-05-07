@@ -8,4 +8,15 @@ Each project has its own readme file contating information on
 6. screenshots
 
 Screenshots from individual projects: 
-![Annual Growth Rate](outputs/Case Study(EV)/growth_rate.png)
+
+EV Market Size Analysis
+
+![Annual Growth Rate](outputs/CaseStudy(EV)/growth_rate.png)
+
+![Growth Rate by City/Country](outputs/CaseStudy(EV)/city_country_destribution.png)
+
+![Top EVs and their Range](outputs/CaseStudt(EV)/model_range_destribution.png)
+
+![Market Size Prediction](outputs/CaseStudt(EV)/growth_trend_prediction.png)
+
+The forecasted EV registrations predict an even more dramatic increase in the near future, with the number of registrations expected to rise sharply in the coming years.
