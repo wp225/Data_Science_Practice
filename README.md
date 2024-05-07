@@ -15,8 +15,9 @@ EV Market Size Analysis
 
 ![Growth Rate by City/Country](outputs/CaseStudy(EV)/city_country_destribution.png)
 
-![Top EVs and their Range](outputs/CaseStudt(EV)/model_range_destribution.png)
+![Range of top EVs](outputs/CaseStudy(EV)/model_range_destribution.png)
 
-![Market Size Prediction](outputs/CaseStudt(EV)/growth_trend_prediction.png)
+
+![Market Size](outputs/CaseStudy(EV)/growth_trend_prediction.png)
 
 The forecasted EV registrations predict an even more dramatic increase in the near future, with the number of registrations expected to rise sharply in the coming years.
