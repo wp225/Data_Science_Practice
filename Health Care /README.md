@@ -29,6 +29,6 @@ strategies that cater to the specific needs of each cluster, leading to more eff
 management and better patient outcomes.
 
 ScreenShots:
-<div style="text-align:center;">
 <img alt="The pie chart indicates a nearly even split between male and female subjects in the dataset, with males comprising a slight majority at 51.2%." src="/Users/anshujoshi/PycharmProjects/DS_projects/Health Care /outputs/Gender_destribution.png" title="Gender Destribution"/>
-</div>
+
+<img src="/Users/anshujoshi/PycharmProjects/DS_projects/Health Care /outputs/Univariant_analysis.png" title="Univariant Analysis"/>
