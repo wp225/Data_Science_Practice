@@ -30,6 +30,4 @@ management and better patient outcomes.
 
 ScreenShots:
 
-<div style="text-align:center;">
 <img alt="The pie chart indicates a nearly even split between male and female subjects in the dataset, with males comprising a slight majority at 51.2%." src="/Users/anshujoshi/PycharmProjects/DS_projects/Health Care" title="Gender Destribution"/>
-</div>
