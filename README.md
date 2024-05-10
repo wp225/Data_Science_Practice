@@ -34,3 +34,10 @@ The forecasted EV registrations predict an even more dramatic increase in the ne
 ![Barplot Metrics](outputs/HealthCare/barplot_metrices.png)
 
 ![Gender Distribution](outputs/HealthCare/Gender_destribution.png)
+
+##
+### Loan Approval Prediction/Analysis
+
+![Univariate Analysis](outputs/LoanApproval/multi_variant_analysis.png)
+
+![Correlation Heatmap](outputs/LoanApproval/loan_amount_destribution.png)
