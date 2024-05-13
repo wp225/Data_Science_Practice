@@ -47,3 +47,6 @@ The forecasted EV registrations predict an even more dramatic increase in the ne
 ![Normalized](outputs/LoanApproval/normalized.png)
 
 ![Model Performance](outputs/LoanApproval/model_performance.png)
+
+![Feature Selection](outputs/LoanApproval/feature_selection.png)
+
