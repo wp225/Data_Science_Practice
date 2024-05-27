@@ -50,3 +50,40 @@ The forecasted EV registrations predict an even more dramatic increase in the ne
 
 ![Feature Selection](outputs/LoanApproval/feature_selection.png)
 
+##
+### Hypothesis Testing
+```
+Alpha = Tgreshold to reject Null Hypothesis
+P-value = Probablity of getting the observation if Null Hypothesis were to be correct
+
+P-value > Alpha = Fail to reject Null hypothesis
+P-value < Alpha = Reject Null Hypothesis
+
+Low alpha = Harder to reject Null Hypothesis. 
+High alpha = Easier to reject Null Hypothesis. 
+```
+
+![Bivarianit Analysis](outputs/Hypothesis_Testing/bivariant_analysis.png)
+
+![Bivarianit Analysis](outputs/Hypothesis_Testing/univariant_analysis.png)
+
+#### Hm P-value of 0.63 is alot greater than generally accepted alpha of 0.05.
+##### So, we fail to reject null hypothesis.
+
+##
+
+#### Time Series Analysis
+
+![Bivarianit Analysis](outputs/time_series/stocks.png)
+
+![Bivarianit Analysis](outputs/time_series/AAPL_decomposition.png)
+
+![Bivarianit Analysis](outputs/time_series/GOOG_decomposition.png)
+
+![Bivarianit Analysis](outputs/time_series/MSFT_decomposition.png)
+
+![Bivarianit Analysis](outputs/time_series/NFLX.png)
+
+Strong seasonal influence presence in all stocks
+
+
