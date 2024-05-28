@@ -25,3 +25,10 @@ usually have some relation to calender date.
 ##
 
 Very Strong Seasonal Components as seen from decomposition  
+
+##
+Simple ETS fitted on Stocks
+![](outputs/EST_outputs/fitted.png)
+
+Simple ETS fitted on Champaing data
+![](outputs/EST_outputs/champain_fitted.png)
